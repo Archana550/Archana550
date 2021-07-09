@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Archana550)
 </br>
-![counter](https://[enxkje2a26weqd1.m.pipedream.net].m.pipedream.net)
+<!-- ![counter](https://[enxkje2a26weqd1.m.pipedream.net].m.pipedream.net) -->
