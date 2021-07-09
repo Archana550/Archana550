@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Archana550)
 </br>
 
-## Tools i like/use:  
-<code>
 
-
-
-         <a href="https://git-scm.com/">
-         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-</a>
          
          
          
