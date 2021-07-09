@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 
 </code>
 
-
-</br>
 ![](https://komarev.com/ghpvc/?username=Archana550&color=orange)
