@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about web development.
 - 📫 How to reach me: archanakumari8n7@gmail.com
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Archana550)
