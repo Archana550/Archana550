@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures
 - 👯 I’m looking to collaborate on MERN stack projects.
 - 🤔 I’m looking for help with understanding coding.
-- 💬 Ask me about web development.
+- 💬 Ask me about web development and I can teach you meditation🧎‍♂️ too😊.
 - 📫 How to reach me: archanakumari8n7@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Archana550)
