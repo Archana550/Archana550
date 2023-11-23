@@ -1,4 +1,4 @@
-### Namaste 🙏
+### Namaste, Welcome to my Github profile 🙏
 
 <!--
 **Archana550/Archana550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my coding skills
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on Development Projects
+- 🔭 I’m currently enhancing my coding skills.
+- 🌱 I’m currently coding in Java.
+- 👯 I’m open to collaborate for disussions and big thinking.
 - 📫 How to reach me: archanakumari8n7@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Archana550)
